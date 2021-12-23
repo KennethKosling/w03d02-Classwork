@@ -155,3 +155,8 @@ console.log(arthur)
 
 // GIT
 // Initialize the git repo ```git init```
+// Check my git status ```git status```
+// Stage the commit ```git add -A```
+// Check my git status ```git status```
+// Commit ```git commit -m "some message"```
+// Check my git status ```git status```
